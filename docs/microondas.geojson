@@ -1,0 +1,30 @@
+{
+    "type": "FeatureCollection" ,
+    "features": [
+        { 
+            "type": "Feature" ,
+            "geometry": {
+                "type": "Point" ,
+                "coordinates":[]
+            } ,
+            "propierties":{
+
+                "Preciocondescuento"
+                "Alto": 25.8,
+                "Ancho": 33.4,
+                "Profundidad": 44,
+                "Capacidad": 20,
+                "Modelo": "RMM-20",
+                "Potencia": 700,
+                "Voltaje": 100
+
+            }
+        }
+
+
+
+
+
+    ]
+
+}
