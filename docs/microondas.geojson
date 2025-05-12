@@ -9,7 +9,8 @@
             } ,
             "propierties":{
 
-                "Preciocondescuento"
+                "Preciocondescuento": 219000,
+                "Precioreal": 267000,
                 "Alto": 25.8,
                 "Ancho": 33.4,
                 "Profundidad": 44,
@@ -20,11 +21,122 @@
 
             }
         }
+    ],
 
+    "features": [
+        { 
+            "type": "Feature" ,
+            "geometry": {
+                "type": "Point" ,
+                "coordinates":[]
+            } ,
+            "propierties":{
 
+                "Preciocondescuento": 519900,
+                "Precioreal": 999900,
+                "Alto": 28,
+                "Ancho": 50,
+                "Profundidad": 41,
+                "Capacidad": 30,
+                "Modelo": "MH7032JAS",
+                "Potencia": 1300,
+                "Voltaje": 120
 
+            }
+        }
+    ],
 
+    "features": [
+        { 
+            "type": "Feature" ,
+            "geometry": {
+                "type": "Point" ,
+                "coordinates":[]
+            } ,
+            "propierties":{
 
-    ]
+                "Preciocondescuento": 390000,
+                "Precioreal": 800000,
+                "Alto": 26,
+                "Ancho": 45,
+                "Profundidad": 32,
+                "Capacidad": 20,
+                "Modelo": "MS2032GAS",
+                "Potencia": 1050,               
+                 "Voltaje": 120
+
+            }
+        }
+    ],
+
+    "features": [
+        { 
+            "type": "Feature" ,
+            "geometry": {
+                "type": "Point" ,
+                "coordinates":[]
+            } ,
+            "propierties":{
+
+                "Preciocondescuento": "no aplica",
+                "Precioreal": 15300000,
+                "Alto": 31.75,
+                "Ancho": 43.18,
+                "Profundidad": 52,
+                "Capacidad": "no aplica",
+                "Modelo": "FMO16AHTPLB",
+                "Potencia": 1100,
+                "Voltaje": 120
+
+            }
+        }
+    ],
+
+    "features": [
+        { 
+            "type": "Feature" ,
+            "geometry": {
+                "type": "Point" ,
+                "coordinates":[]
+            } ,
+            "propierties":{
+
+                "Preciocondescuento": "no aplica" ,
+                "Precioreal": 940000,
+                "Alto": 25.91,
+                "Ancho": 33.02,
+                "Profundidad": 43,
+                "Capacidad": "no aplica",
+                "Modelo": "EM720CB7",
+                "Potencia": 700,
+                "Voltaje": 120
+
+            }
+        }
+    ],
+    
+
+    "features": [
+        { 
+            "type": "Feature" ,
+            "geometry": {
+                "type": "Point" ,
+                "coordinates":[]
+            } ,
+            "propierties":{
+
+                "Preciocondescuento": 1000000,
+                "Precioreal": 1500000,
+                "Alto": 28,
+                "Ancho": 34,
+                "Profundidad": 20,
+                "Capacidad": 20,
+                "Modelo": "MCMO9FTSG",
+                "Potencia": 20,
+                "Voltaje": 120
+
+            }
+        }
+    ],
 
 }
