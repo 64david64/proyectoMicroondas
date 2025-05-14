@@ -20,11 +20,23 @@ var miArchivo= await fetch("microondas.geojson");
 // convertir el contenido a json: objeto js
 
 var datos= await miArchivo.json();
-for (let i=0; i<20;i++)
-console.log (datos["features"][i]);
+
+let listaFeatures= datos["feautures"];
 
 
-};
+for (let i=0; i<20;i++){
 
-cargarPuntos(),
+    let miscoordenadas= listaFeatures[i]["geometry"]["coordinates"];
+    var miMarcador= l.marker(misCoordenadas)
+    miMarcador. addTo(map);
+
+}
+
+
+
+
+
+}
+
+cargarPuntos();
 
