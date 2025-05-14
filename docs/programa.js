@@ -1,12 +1,11 @@
-var map = L.map('map').setView([51.505, -0.09], 13);
+var map = L.map('map').setView([4.6279625,-74.0684911], 13);
 
-L.titlelayer(""), {
-    maxZoom:19, 
-    attribution:""
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+}).addTo(map);
 
-}
-
-var marker=L.marker ([51.505, -0.09]);
+var marker=L.marker ([4.6279625,-74.0684911]);
 marker.addto(map);
 
 //abrir el archivo GeoJspon 
@@ -21,11 +20,11 @@ var miArchivo= await fetch("microondas.geojson");
 // convertir el contenido a json: objeto js
 
 var datos= await miArchivo.json();
-
-console.log (datos);
-console.log (datos["features"][0]);
+for (let i=0; i<20;i++)
+console.log (datos["features"][i]);
 
 
 };
 
 cargarPuntos(),
+
