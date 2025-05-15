@@ -1,368 +1,345 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": []
-      },
-      "properties": {
-        "Preciocondescuento": 219000,
-        "Precioreal": 267000,
-        "Alto": 25.8,
-        "Ancho": 33.4,
-        "Profundidad": 44,
-        "Capacidad": 20,
-        "Modelo": "RMM-20",
-        "Potencia": 700,
-        "Voltaje": 100
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": []
-      },
-      "properties": {
-        "Preciocondescuento": 519900,
-        "Precioreal": 999900,
-        "Alto": 28,
-        "Ancho": 50,
-        "Profundidad": 41,
-        "Capacidad": 30,
-        "Modelo": "MH7032JAS",
-        "Potencia": 1300,
-        "Voltaje": 120
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": []
-      },
-      "properties": {
-        "Preciocondescuento": 390000,
-        "Precioreal": 800000,
-        "Alto": 26,
-        "Ancho": 45,
-        "Profundidad": 32,
-        "Capacidad": 20,
-        "Modelo": "MS2032GAS",
-        "Potencia": 1050,
-        "Voltaje": 120
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": []
-      },
-      "properties": {
-        "Preciocondescuento": "no aplica",
-        "Precioreal": 15300000,
-        "Alto": 31.75,
-        "Ancho": 43.18,
-        "Profundidad": 52,
-        "Capacidad": "no aplica",
-        "Modelo": "FMO16AHTPLB",
-        "Potencia": 1100,
-        "Voltaje": 120
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": []
-      },
-      "properties": {
-        "Preciocondescuento": "no aplica",
-        "Precioreal": 940000,
-        "Alto": 25.91,
-        "Ancho": 33.02,
-        "Profundidad": 43,
-        "Capacidad": "no aplica",
-        "Modelo": "EM720CB7",
-        "Potencia": 700,
-        "Voltaje": 120
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": []
-      },
-      "properties": {
-        "Preciocondescuento": 1000000,
-        "Precioreal": 1500000,
-        "Alto": 28,
-        "Ancho": 34,
-        "Profundidad": 20,
-        "Capacidad": 20,
-        "Modelo": "MCMO9FTSG",
-        "Potencia": 20,
-        "Voltaje": 120
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.068739, 4.647319]
-      },
-      "properties": {
-        "Precio": 409900,
-        "Alto": 27.5,
-        "Ancho": 48.9,
-        "Profundidad": 37.7,
-        "Capacidad": 23,
-        "Modelo": "MS23DG4504ATCO",
-        "Potencia": 750,
-        "Voltaje": 120
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.095102, 4.689685]
-      },
-      "properties": {
-        "Precio": 459900,
-        "Alto": 27.5,
-        "Ancho": 48.9,
-        "Profundidad": 39.4,
-        "Capacidad": 23,
-        "Modelo": "MG23DG4524ATCO",
-        "Potencia": 750,
-        "Voltaje": 120
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.073837, 4.685698]
-      },
-      "properties": {
-        "Precio": 119000,
-        "Alto": 28.1,
-        "Ancho": 48.3,
-        "Profundidad": 37.2,
-        "Capacidad": 25,
-        "Modelo": "EMDO25S3GSEUG",
-        "Potencia": 700,
-        "Voltaje": 120
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.088618, 4.725018]
-      },
-      "properties": {
-        "Precio": 149000,
-        "Alto": 33.0,
-        "Ancho": 53.9,
-        "Profundidad": 39.8,
-        "Capacidad": 30,
-        "Modelo": "EMDO30G2GSRUG",
-        "Potencia": 900,
-        "Voltaje": 120
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.089975, 4.654866]
-      },
-      "properties": {
-        "Precio": 95000,
-        "Alto": 26.0,
-        "Ancho": 45.2,
-        "Profundidad": 33.5,
-        "Capacidad": 20,
-        "Modelo": "MWI-20BL",
-        "Potencia": 700,
-        "Voltaje": 110
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.076235, 4.728238]
-      },
-      "properties": {
-        "Precio": 1819900,
-        "Alto": 30.0,
-        "Ancho": 52.0,
-        "Profundidad": 32.0,
-        "Capacidad": 25,
-        "Modelo": "MagicChef1100W",
-        "Potencia": 1100,
-        "Voltaje": 120
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.095503, 4.709305]
-      },
-      "properties": {
-        "Precio": 3279900,
-        "Alto": 35.0,
-        "Ancho": 60.0,
-        "Profundidad": 33.0,
-        "Capacidad": 54,
-        "Modelo": "SamsungSensor1.9",
-        "Potencia": 1600,
-        "Voltaje": 120
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.060241, 4.638764]
-      },
-      "properties": {
-        "Precio": 299900,
-        "Alto": 28.1,
-        "Ancho": 48.3,
-        "Profundidad": 40.7,
-        "Capacidad": 25.5,
-        "Modelo": "MGE09SEJ",
-        "Potencia": 900,
-        "Voltaje": 110
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.071227, 4.694274]
-      },
-      "properties": {
-        "Precio": 377644,
-        "Alto": 25.0,
-        "Ancho": 45.0,
-        "Profundidad": 35.0,
-        "Capacidad": 20,
-        "Modelo": "Haceb0.7",
-        "Potencia": 700,
-        "Voltaje": 110
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.076789, 4.73805]
-      },
-      "properties": {
-        "Precio": 461754,
-        "Alto": 28.0,
-        "Ancho": 49.0,
-        "Profundidad": 37.0,
-        "Capacidad": 30,
-        "Modelo": "EMDO30Grill",
-        "Potencia": 900,
-        "Voltaje": 120
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.061511, 4.671925]
-      },
-      "properties": {
-        "Precio": 1956000,
-        "Alto": 31.0,
-        "Ancho": 55.0,
-        "Profundidad": 37.0,
-        "Capacidad": 34,
-        "Modelo": "NN-SN686S",
-        "Potencia": 1200,
-        "Voltaje": 120
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.060506, 4.618132]
-      },
-      "properties": {
-        "Precio": 499900,
-        "Alto": 29.0,
-        "Ancho": 51.0,
-        "Profundidad": 38.0,
-        "Capacidad": 31,
-        "Modelo": "WM1811D",
-        "Potencia": 1000,
-        "Voltaje": 120
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.084146, 4.744413]
-      },
-      "properties": {
-        "Precio": 349900,
-        "Alto": 27.0,
-        "Ancho": 49.0,
-        "Profundidad": 37.0,
-        "Capacidad": 23,
-        "Modelo": "MS23K3513AK",
-        "Potencia": 800,
-        "Voltaje": 120
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.065073, 4.681642]
-      },
-      "properties": {
-        "Precio": 299900,
-        "Alto": 26.0,
-        "Ancho": 47.0,
-        "Profundidad": 35.0,
-        "Capacidad": 20,
-        "Modelo": "MGE07SEJ",
-        "Potencia": 800,
-        "Voltaje": 110
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.082661, 4.689012]
-      },
-      "properties": {
-        "Precio": 279000,
-        "Alto": 25.0,
-        "Ancho": 44.0,
-        "Profundidad": 34.0,
-        "Capacidad": 17,
-        "Modelo": "EMDO17",
-        "Potencia": 700,
-        "Voltaje": 110
-      }
-    }
-  ]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1133, 4.6783]
+            },
+            "properties": {
+                "Precio": 409900,
+                "Alto": 27.5,
+                "Ancho": 48.9,
+                "Profundidad": 37.7,
+                "Capacidad": 23,
+                "Modelo": "MS23DG4504ATCO",
+                "Potencia": 750,
+                "Voltaje": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.0805, 4.6483]
+            },
+            "properties": {
+                "Precio": 459900,
+                "Alto": 27.5,
+                "Ancho": 48.9,
+                "Profundidad": 39.4,
+                "Capacidad": 23,
+                "Modelo": "MG23DG4524ATCO",
+                "Potencia": 750,
+                "Voltaje": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1072, 4.6480]
+            },
+            "properties": {
+                "Precio": 119000,
+                "Alto": 28.1,
+                "Ancho": 48.3,
+                "Profundidad": 37.2,
+                "Capacidad": 25,
+                "Modelo": "EMDO25S3GSEUG",
+                "Potencia": 700,
+                "Voltaje": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.0740, 4.6301]
+            },
+            "properties": {
+                "Precio": 149000,
+                "Alto": 33.0,
+                "Ancho": 53.9,
+                "Profundidad": 39.8,
+                "Capacidad": 30,
+                "Modelo": "EMDO30G2GSRUG",
+                "Potencia": 900,
+                "Voltaje": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1290, 4.5630]
+            },
+            "properties": {
+                "Precio": 95000,
+                "Alto": 26.0,
+                "Ancho": 45.2,
+                "Profundidad": 33.5,
+                "Capacidad": 20,
+                "Modelo": "MWI-20BL",
+                "Potencia": 700,
+                "Voltaje": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1133, 4.6783]
+            },
+            "properties": {
+                "Precio": 1819900,
+                "Alto": 30.0,
+                "Ancho": 52.0,
+                "Profundidad": 32.0,
+                "Capacidad": 25,
+                "Modelo": "MagicChef1100W",
+                "Potencia": 1100,
+                "Voltaje": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.0805, 4.6483]
+            },
+            "properties": {
+                "Precio": 3279900,
+                "Alto": 35.0,
+                "Ancho": 60.0,
+                "Profundidad": 33.0,
+                "Capacidad": 54,
+                "Modelo": "SamsungSensor1.9",
+                "Potencia": 1600,
+                "Voltaje": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1072, 4.6480]
+            },
+            "properties": {
+                "Precio": 299900,
+                "Alto": 28.1,
+                "Ancho": 48.3,
+                "Profundidad": 40.7,
+                "Capacidad": 25.5,
+                "Modelo": "MGE09SEJ",
+                "Potencia": 900,
+                "Voltaje": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.0740, 4.6301]
+            },
+            "properties": {
+                "Precio": 377644,
+                "Alto": 25.0,
+                "Ancho": 45.0,
+                "Profundidad": 35.0,
+                "Capacidad": 20,
+                "Modelo": "Haceb0.7",
+                "Potencia": 700,
+                "Voltaje": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1290, 4.5632]
+            },
+            "properties": {
+                "Precio": 461754,
+                "Alto": 28.0,
+                "Ancho": 49.0,
+                "Profundidad": 37.0,
+                "Capacidad": 30,
+                "Modelo": "EMDO30Grill",
+                "Potencia": 900,
+                "Voltaje": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1133, 4.6783]
+            },
+            "properties": {
+                "Precio": 1956000,
+                "Alto": 31.0,
+                "Ancho": 55.0,
+                "Profundidad": 37.0,
+                "Capacidad": 34,
+                "Modelo": "NN-SN686S",
+                "Potencia": 1200,
+                "Voltaje": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.0805, 4.6483]
+            },
+            "properties": {
+                "Precio": 499900,
+                "Alto": 29.0,
+                "Ancho": 51.0,
+                "Profundidad": 38.0,
+                "Capacidad": 31,
+                "Modelo": "WM1811D",
+                "Potencia": 1000,
+                "Voltaje": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1072, 4.6481]
+            },
+            "properties": {
+                "Precio": 349900,
+                "Alto": 27.0,
+                "Ancho": 49.0,
+                "Profundidad": 37.0,
+                "Capacidad": 23,
+                "Modelo": "MS23K3513AK",
+                "Potencia": 800,
+                "Voltaje": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.0625, 4.6781]
+            },
+            "properties": {
+                "Precio": 1585675,
+                "Alto": 31.1,
+                "Ancho": 51.1,
+                "Profundidad": 43.1,
+                "Capacidad": 25,
+                "Modelo": "MS23K3513AK",
+                "Potencia": 1000,
+                "Voltaje": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.0625, 4.6781]
+            },
+            "properties": {
+                "Precio": 322900,
+                "Alto": 26.1,
+                "Ancho": 44,
+                "Profundidad": 33,
+                "Capacidad": 20.3,
+                "Modelo": "MS23K3513AK",
+                "Potencia": 700,
+                "Voltaje": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.0687, 4.6473]
+            },
+            "properties": {
+                "Precio": 379900,
+                "Alto": 27.5,
+                "Ancho": 48.9,
+                "Profundidad": 39.4,
+                "Capacidad": 23,
+                "Modelo": "MS23K3513AK",
+                "Potencia": 750,
+                "Voltaje": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.0812, 4.6097]
+            },
+            "properties": {
+                "Precio": 329900,
+                "Alto": 26.2,
+                "Ancho": 45.2,
+                "Profundidad": 36,
+                "Capacidad": 19.8,
+                "Modelo": "MS23K3513AK",
+                "Potencia": 700,
+                "Voltaje": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.0812, 4.6097]
+            },
+            "properties": {
+                "Precio": 399000,
+                "Alto": 25.9,
+                "Ancho": 44,
+                "Profundidad": 32.9,
+                "Capacidad": 20,
+                "Modelo": "MS23K3513AK",
+                "Potencia": 700,
+                "Voltaje": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.0740, 4.6301]
+            },
+            "properties": {
+                "Precio": 299900,
+                "Alto": 26.0,
+                "Ancho": 47.0,
+                "Profundidad": 35.0,
+                "Capacidad": 20,
+                "Modelo": "MGE07SEJ",
+                "Potencia": 800,
+                "Voltaje": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1291, 4.5631]
+            },
+            "properties": {
+                "Precio": 279000,
+                "Alto": 25.0,
+                "Ancho": 44.0,
+                "Profundidad": 34.0,
+                "Capacidad": 17,
+                "Modelo": "EMDO17",
+                "Potencia": 700,
+                "Voltaje": 110
+            }
+        }
+    ]
 }
