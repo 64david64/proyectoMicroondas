@@ -46,6 +46,7 @@ async function cargarPuntos() {
                     <strong>Precio:</strong> $${propiedades.Precio}<br>
                     <strong>Potencia:</strong> ${propiedades.Potencia} W<br>
                     <strong>Voltaje:</strong> ${propiedades.Voltaje} V
+                    <img src="${propiedades.Imagen}" alt="Imagen" Width="150">
                 `;
 
                 marcador.bindPopup(contenidoPopup);
