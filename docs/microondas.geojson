@@ -2,343 +2,385 @@
     "type": "FeatureCollection",
     "features": [
         {
+
+
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-74.1133, 4.6783]
+                "coordinates": [-74.05247, 4.66711]
             },
             "properties": {
-                "Precio": 409900,
-                "Alto": 27.5,
-                "Ancho": 48.9,
-                "Profundidad": 37.7,
-                "Capacidad": 23,
-                "Modelo": "MS23DG4504ATCO",
-                "Potencia": 750,
-                "Voltaje": 120
+                "Ubicacion": "Falabella, C.C Andino (Cra. 11 #82-71)",
+                "Precio": 529900,
+                "Alto": 45,
+                "Ancho": 26.2,
+                "Profundidad": 31.5,
+                "Capacidad": 20,
+                "Modelo": "WM1807D",
+                "Potencia": 700,
+                "Voltaje": 115,
+                "Imagen": "https://http2.mlstatic.com/D_NQ_NP_823437-MLA52006871618_102022-O.webp"
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-74.0805, 4.6483]
+                "coordinates": [-74.08581, 4.67961]
             },
             "properties": {
-                "Precio": 459900,
+                "Ubicacion": "Alkosto, Av. 68 (Avenida Carrera 68 No. 72 43)",
+                "Precio": 569900,
+                "Alto": 26.2,
+                "Ancho": 45.5,
+                "Profundidad": 31.5,
+                "Capacidad": 20,
+                "Modelo": "WM1807B",
+                "Potencia": 700,
+                "Voltaje": 115,
+                "Imagen": "https://http2.mlstatic.com/D_NQ_NP_808235-MLA47677336969_092021-O.webp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.06367, 4.76020]
+            },
+            "properties": {
+                "Ubicacion": "Alkosto, Calle 170 (Carrera 69 No. 170 15)",
+                "Precio": 427900,
+                "Alto": 26.2,
+                "Ancho": 45.2,
+                "Profundidad": 36,
+                "Capacidad": 20,
+                "Modelo": "9002065",
+                "Potencia": 1100,
+                "Voltaje": 115,
+                "Imagen": "https://madecentro.com/cdn/shop/files/Electrodomesticos-hornos-electricos-haceb-negro-9002064-MP-madecentro.webp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.04700, 4.75646]
+            },
+            "properties": {
+                "Ubicacion": "Homecenter, Calle 170 (Auto. Norte #175 50)",
+                "Precio": 399900,
+                "Alto": 28.1,
+                "Ancho": 48.3,
+                "Profundidad": 37.2,
+                "Capacidad": 25,
+                "Modelo": "EMDO25S3GSLUG",
+                "Potencia": 900,
+                "Voltaje": 120,
+                "Imagen": "https://http2.mlstatic.com/D_NQ_NP_878897-MLU78640586032_092024-O.webp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.05061, 4.67997]
+            },
+            "properties": {
+                "Ubicacion": "Ktronix, Calle 94 (Calle 94 No. 15 14)",
+                "Precio": 479900,
+                "Alto": 25.7,
+                "Ancho": 44.3,
+                "Profundidad": 32.9,
+                "Capacidad": 20,
+                "Modelo": "NN-SB25JBRUH",
+                "Potencia": 700,
+                "Voltaje": 115,
+                "Imagen": "https://http2.mlstatic.com/D_NQ_NP_616016-MLU70783336836_082023-O.webp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.10549, 4.65507]
+            },
+            "properties": {
+                "Ubicacion": "Ktronix, Salitre (Carrera 68B No. 25B 80)",
+                "Precio": 427900,
+                "Alto": 26.2,
+                "Ancho": 42.2,
+                "Profundidad": 36,
+                "Capacidad": 20,
+                "Modelo": "MagicChef1100W",
+                "Potencia": 1100,
+                "Voltaje": 115,
+                "Imagen": "https://madecentro.com/cdn/shop/files/Electrodomesticos-hornos-electricos-haceb-negro-9002064-MP-madecentro.webp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.03286, 4.69366]
+            },
+            "properties": {
+                "Ubicacion": "Olímpica, C.C Hacienda Santa Bárbara (Calle 116 No. 7 15)",
+                "Precio": 399900,
+                "Alto": 25.9,
+                "Ancho": 44.6,
+                "Profundidad": 33.0,
+                "Capacidad": 54,
+                "Modelo": "5159112",
+                "Potencia": 1000,
+                "Voltaje": 120,
+                "Imagen": "https://http2.mlstatic.com/D_NQ_NP_931413-MLV74963717976_032024-O.webp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.13876, 4.59438]
+            },
+            "properties": {
+                "Ubicacion": "Carulla, Quinta Camacho (Carrera 10A No. 70 37)",
+                "Precio": 799900,
+                "Alto": 26.1,
+                "Ancho": 45.4,
+                "Profundidad": 38.6,
+                "Capacidad": 20,
+                "Modelo": "MS2032GAS",
+                "Potencia": 700,
+                "Voltaje": 127,
+                "Imagen": "https://i0.wp.com/alcaltda.com/wp-content/uploads/2024/11/8806095508757-002-750Wx750H.webp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.05962, 4.65533]
+            },
+            "properties": {
+                "Ubicacion": "Carulla, Quinta Camacho (Carrera 10A No. 70 37)",
+                "Precio": 748300,
+                "Alto": 30,
+                "Ancho": 53,
+                "Profundidad": 40,
+                "Capacidad": 31,
+                "Modelo": "MGE11XAF",
+                "Potencia": 700,
+                "Voltaje": 120,
+                "Imagen": "https://http2.mlstatic.com/D_NQ_NP_921661-MCO78418882576_082024-O.webp" 
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.03536, 4.71940]
+            },
+            "properties": {
+                "Ubicacion": "Carulla, Calle 140 (Carrera 11 No. 140 29)",
+                "Precio": 799900,
+                "Alto": 30,
+                "Ancho": 53.9,
+                "Profundidad": 40,
+                "Capacidad": 30,
+                "Modelo": "WM1811D",
+                "Potencia": 900,
+                "Voltaje": 125,
+                "Imagen": "https://folymuebles.com/cdn/shop/files/241216-Photoroom_1_800x600.webp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.04546, 4.76330]
+            },
+            "properties": {
+                "Ubicacion": "Jumbo, C.C Santa Fé (Calle 185 No. 45 03",
+                "Precio": 442900,
+                "Alto": 26.0,
+                "Ancho": 45.0,
+                "Profundidad": 34.0,
+                "Capacidad": 19,
+                "Modelo": "AM1807D",
+                "Potencia": 700,
+                "Voltaje": 120,
+                "Imagen": "https://http2.mlstatic.com/D_NQ_NP_645828-MLA82162100710_022025-O.webp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.08610, 4.69545]
+            },
+            "properties": {
+                "Ubicacion": "Home Sentry, Titán Plaza (Avenida Calle 80 No. 80-94)",
+                "Precio": 406950,
+                "Alto": 25.9,
+                "Ancho": 44,
+                "Profundidad": 32.9,
+                "Capacidad": 20,
+                "Modelo": "HACEB 0.7 PL",
+                "Potencia": 700,
+                "Voltaje": 115,
+                "Imagen": "https://http2.mlstatic.com/D_NQ_NP_766797-MLU78276149143_082024-O.webp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.07730, 4.60545]
+            },
+            "properties": {
+                "Ubicacion": "Fantasía Electrónica (Carrera 13 No. 15 85)",
+                "Precio": 399900,
+                "Alto": 25.9,
+                "Ancho": 44.0,
+                "Profundidad": 32.9,
+                "Capacidad": 20,
+                "Modelo": "MMDF07S2MB",
+                "Potencia": 1050,
+                "Voltaje": 110,
+                "Imagen": "https://http2.mlstatic.com/D_NQ_NP_875533-MLU78852124957_082024-O.webp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.13955, 4.59636]
+            },
+            "properties": {
+                "Ubicacion": "Alkosto, Venecia (Ac. 45a Sur No. 51 90)",
+                "Precio": 419900,
+                "Alto": 27.5,
+                "Ancho": 48.9,
+                "Profundidad": 37.4,
+                "Capacidad": 20,
+                "Modelo": "MS23K3513AK/CO",
+                "Potencia": 750,
+                "Voltaje": 115,
+                "Imagen": "https://http2.mlstatic.com/D_NQ_NP_870576-MCO77571581548_072024-O.webp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.13238, 4.60440]
+            },
+            "properties": {
+                "Ubicacion": "Homecenter, Venecia (Av 68 No. 37 37 Sur)",
+                "Precio": 499900,
                 "Alto": 27.5,
                 "Ancho": 48.9,
                 "Profundidad": 39.4,
                 "Capacidad": 23,
                 "Modelo": "MG23DG4524ATCO",
-                "Potencia": 750,
-                "Voltaje": 120
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-74.1072, 4.6480]
-            },
-            "properties": {
-                "Precio": 119000,
-                "Alto": 28.1,
-                "Ancho": 48.3,
-                "Profundidad": 37.2,
-                "Capacidad": 25,
-                "Modelo": "EMDO25S3GSEUG",
                 "Potencia": 700,
-                "Voltaje": 120
+                "Voltaje": 110,
+                "Imagen": "https://http2.mlstatic.com/D_NQ_NP_987547-MCO76864027703_062024-O.webp"
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-74.0740, 4.6301]
+                "coordinates": [-74.05185, 4.66392]
             },
             "properties": {
-                "Precio": 149000,
-                "Alto": 33.0,
+                "Ubicacion": "La Cuisine Appliance - T. Escalar (Carrera 9 No. 80 45)",
+                "Precio": 1269900,
+                "Alto": 30,
                 "Ancho": 53.9,
-                "Profundidad": 39.8,
-                "Capacidad": 30,
-                "Modelo": "EMDO30G2GSRUG",
-                "Potencia": 900,
-                "Voltaje": 120
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-74.1290, 4.5630]
-            },
-            "properties": {
-                "Precio": 95000,
-                "Alto": 26.0,
-                "Ancho": 45.2,
-                "Profundidad": 33.5,
-                "Capacidad": 20,
-                "Modelo": "MWI-20BL",
-                "Potencia": 700,
-                "Voltaje": 110
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-74.1133, 4.6783]
-            },
-            "properties": {
-                "Precio": 1819900,
-                "Alto": 30.0,
-                "Ancho": 52.0,
-                "Profundidad": 32.0,
-                "Capacidad": 25,
-                "Modelo": "MagicChef1100W",
-                "Potencia": 1100,
-                "Voltaje": 120
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-74.0805, 4.6483]
-            },
-            "properties": {
-                "Precio": 3279900,
-                "Alto": 35.0,
-                "Ancho": 60.0,
-                "Profundidad": 33.0,
-                "Capacidad": 54,
-                "Modelo": "SamsungSensor1.9",
-                "Potencia": 1600,
-                "Voltaje": 120
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-74.1072, 4.6480]
-            },
-            "properties": {
-                "Precio": 299900,
-                "Alto": 28.1,
-                "Ancho": 48.3,
-                "Profundidad": 40.7,
-                "Capacidad": 25.5,
-                "Modelo": "MGE09SEJ",
-                "Potencia": 900,
-                "Voltaje": 110
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-74.0740, 4.6301]
-            },
-            "properties": {
-                "Precio": 377644,
-                "Alto": 25.0,
-                "Ancho": 45.0,
-                "Profundidad": 35.0,
-                "Capacidad": 20,
-                "Modelo": "Haceb0.7",
-                "Potencia": 700,
-                "Voltaje": 110
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-74.1290, 4.5632]
-            },
-            "properties": {
-                "Precio": 461754,
-                "Alto": 28.0,
-                "Ancho": 49.0,
-                "Profundidad": 37.0,
-                "Capacidad": 30,
-                "Modelo": "EMDO30Grill",
-                "Potencia": 900,
-                "Voltaje": 120
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-74.1133, 4.6783]
-            },
-            "properties": {
-                "Precio": 1956000,
-                "Alto": 31.0,
-                "Ancho": 55.0,
-                "Profundidad": 37.0,
-                "Capacidad": 34,
-                "Modelo": "NN-SN686S",
+                "Profundidad": 46.2,
+                "Capacidad": 23,
+                "Modelo": "WM3911D",
                 "Potencia": 1200,
-                "Voltaje": 120
+                "Voltaje": 120,
+                "Imagen": "https://http2.mlstatic.com/D_NQ_NP_613492-MLA84536722246_052025-O.webp"
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-74.0805, 4.6483]
+                "coordinates": [-74.04894, 4.70231]
             },
             "properties": {
-                "Precio": 499900,
-                "Alto": 29.0,
-                "Ancho": 51.0,
-                "Profundidad": 38.0,
-                "Capacidad": 31,
-                "Modelo": "WM1811D",
-                "Potencia": 1000,
-                "Voltaje": 120
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-74.1072, 4.6481]
-            },
-            "properties": {
-                "Precio": 349900,
-                "Alto": 27.0,
-                "Ancho": 49.0,
-                "Profundidad": 37.0,
-                "Capacidad": 23,
-                "Modelo": "MS23K3513AK",
-                "Potencia": 800,
-                "Voltaje": 120
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-74.0625, 4.6781]
-            },
-            "properties": {
-                "Precio": 1585675,
+                "Ubicacion": "La Cuisine Appliance - Calle 122 (Cl. 122 No. 18c 25)",
+                "Precio": 2099900,
                 "Alto": 31.1,
-                "Ancho": 51.1,
-                "Profundidad": 43.1,
-                "Capacidad": 25,
-                "Modelo": "MS23K3513AK",
+                "Ancho": 55.2,
+                "Profundidad": 44.7,
+                "Capacidad": 19.8,
+                "Modelo": "KMCS324RBS",
+                "Potencia": 1200,
+                "Voltaje": 110,
+                "Imagen": "https://images.plessers.com/photos/p/00185/1850256.jpg?auto=webp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.08883, 4.67216]
+            },
+            "properties": {
+                "Ubicacion": "Home Sentry, Salitre (Av. 68 No. 64 50)",
+                "Precio": 679950,
+                "Alto": 30.6,
+                "Ancho": 45.3,
+                "Profundidad": 43.6,
+                "Capacidad": 20,
+                "Modelo": "HACEB 9001265 1.1",
                 "Potencia": 1000,
-                "Voltaje": 110
+                "Voltaje": 115,
+                "Imagen": "https://http2.mlstatic.com/D_NQ_NP_882354-MLA48256464729_112021-O.webp"
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-74.0625, 4.6781]
+                "coordinates": [-74.10202, 4.64827]
             },
             "properties": {
-                "Precio": 322900,
-                "Alto": 26.1,
-                "Ancho": 44,
-                "Profundidad": 33,
-                "Capacidad": 20.3,
-                "Modelo": "MS23K3513AK",
-                "Potencia": 700,
-                "Voltaje": 110
+                "Ubicacion": "Éxito, Gran Estación (Ac. 26 No. 62 47)",
+                "Precio": 599900,
+                "Alto": 27.9,
+                "Ancho": 47.2,
+                "Profundidad": 36.5,
+                "Capacidad": 25,
+                "Modelo": "EMDY25S0MXB",
+                "Potencia": 1200,
+                "Voltaje": 115,
+                "Imagen": "https://diproelsac.com/wp-content/uploads/2024/11/Microondas-Freestanding-Electrico-Electrolux-31LT-EMDY31S2MXB-5-500x500.webp"
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-74.0687, 4.6473]
+                "coordinates": [-74.06607, 4.73523]
             },
             "properties": {
-                "Precio": 379900,
-                "Alto": 27.5,
-                "Ancho": 48.9,
-                "Profundidad": 39.4,
-                "Capacidad": 23,
-                "Modelo": "MS23K3513AK",
-                "Potencia": 750,
-                "Voltaje": 115
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-74.0812, 4.6097]
-            },
-            "properties": {
-                "Precio": 329900,
+                "Ubicacion": "Éxito, Colina (Av Boyacá No. 72 146B)",
+                "Precio": 311948,
                 "Alto": 26.2,
                 "Ancho": 45.2,
-                "Profundidad": 36,
-                "Capacidad": 19.8,
-                "Modelo": "MS23K3513AK",
-                "Potencia": 700,
-                "Voltaje": 110
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-74.0812, 4.6097]
-            },
-            "properties": {
-                "Precio": 399000,
-                "Alto": 25.9,
-                "Ancho": 44,
-                "Profundidad": 32.9,
+                "Profundidad": 34.4,
                 "Capacidad": 20,
-                "Modelo": "MS23K3513AK",
-                "Potencia": 700,
-                "Voltaje": 115
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-74.0740, 4.6301]
-            },
-            "properties": {
-                "Precio": 299900,
-                "Alto": 26.0,
-                "Ancho": 47.0,
-                "Profundidad": 35.0,
-                "Capacidad": 20,
-                "Modelo": "MGE07SEJ",
-                "Potencia": 800,
-                "Voltaje": 110
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-74.1291, 4.5631]
-            },
-            "properties": {
-                "Precio": 279000,
-                "Alto": 25.0,
-                "Ancho": 44.0,
-                "Profundidad": 34.0,
-                "Capacidad": 17,
-                "Modelo": "EMDO17",
-                "Potencia": 700,
-                "Voltaje": 110
+                "Modelo": "EMDO20S3GSLUG",
+                "Potencia": 950,
+                "Voltaje": 115,
+                "Imagen": "https://http2.mlstatic.com/D_NQ_NP_765927-MCO47685757839_092021-O.webp"
             }
         }
     ]

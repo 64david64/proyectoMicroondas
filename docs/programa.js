@@ -7,11 +7,13 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(mapa);
 
 L.marker([4.628178084725448, -74.0659272612135]).addTo(mapa)
+
     .bindPopup('Esta es nuestra universidad')
     .openPopup();
 
 async function cargarPuntos() {
     try {
+
         const respuesta = await fetch("microondas.geojson");
         const datos = await respuesta.json();
         const listaFeatures = datos.features;
@@ -33,6 +35,7 @@ async function cargarPuntos() {
                 const marcador = L.marker(latLng).addTo(mapa);
 
                 console.log(`Punto ${i + 1}`);
+                console.log("Ubicacion:", propiedades.Ubicacion);
                 console.log("Modelo:", propiedades.Modelo);
                 console.log("Capacidad:", propiedades.Capacidad);
                 console.log("Precio:", propiedades.Precio);
@@ -41,11 +44,16 @@ async function cargarPuntos() {
                 console.log("---------------");
 
                 const contenidoPopup = `
+
+                    <strong>Ubicación:</strong> ${propiedades.Ubicacion}<br>
                     <strong>Modelo:</strong> ${propiedades.Modelo}<br>
                     <strong>Capacidad:</strong> ${propiedades.Capacidad} L<br>
                     <strong>Precio:</strong> $${propiedades.Precio}<br>
                     <strong>Potencia:</strong> ${propiedades.Potencia} W<br>
                     <strong>Voltaje:</strong> ${propiedades.Voltaje} V
+                    ${propiedades.Imagen ? `<br><img src="${propiedades.Imagen}" alt="Imagen del modelo" style="width:150px;
+                    height:auto; margin-top:10px; display:block;">` : ''}
+
                 `;
 
                 marcador.bindPopup(contenidoPopup);
