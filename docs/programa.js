@@ -54,6 +54,7 @@ async function cargarPuntos() {
                     ${propiedades.Imagen ? `<br><img src="${propiedades.Imagen}" alt="Imagen del modelo" style="width:150px;
                     height:auto; margin-top:10px; display:block;">` : ''}
 
+                    <img src="${propiedades.Imagen}" alt="Imagen" Width="150">
                 `;
 
                 marcador.bindPopup(contenidoPopup);
