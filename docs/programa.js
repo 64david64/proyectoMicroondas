@@ -2,6 +2,7 @@ const mapa = L.map('mapa').setView([4.628178084725448, -74.0659272612135], 14);
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
+
     attribution: '© OpenStreetMap contributors'
 
 }).addTo(mapa);
@@ -43,19 +44,16 @@ async function cargarPuntos() {
                 console.log("Voltaje:", propiedades.Voltaje);
                 console.log("---------------");
 
-                const contenidoPopup = `
+const contenidoPopup = `
+    <strong>Ubicación:</strong> ${propiedades.Ubicacion}<br>
+    <strong>Modelo:</strong> ${propiedades.Modelo}<br>
+    <strong>Capacidad:</strong> ${propiedades.Capacidad} L<br>
+    <strong>Precio:</strong> $${propiedades.Precio}<br>
+    <strong>Potencia:</strong> ${propiedades.Potencia} W<br>
+    <strong>Voltaje:</strong> ${propiedades.Voltaje} V
+    ${propiedades.Imagen ? `<br><img src="${propiedades.Imagen}" alt="Imagen del modelo" style="width:150px; height:auto; margin-top:10px; display:block;">` : ''}
+`;
 
-                    <strong>Ubicación:</strong> ${propiedades.Ubicacion}<br>
-                    <strong>Modelo:</strong> ${propiedades.Modelo}<br>
-                    <strong>Capacidad:</strong> ${propiedades.Capacidad} L<br>
-                    <strong>Precio:</strong> $${propiedades.Precio}<br>
-                    <strong>Potencia:</strong> ${propiedades.Potencia} W<br>
-                    <strong>Voltaje:</strong> ${propiedades.Voltaje} V
-                    ${propiedades.Imagen ? `<br><img src="${propiedades.Imagen}" alt="Imagen del modelo" style="width:150px;
-                    height:auto; margin-top:10px; display:block;">` : ''}
-
-                    <img src="${propiedades.Imagen}" alt="Imagen" Width="150">
-                `;
 
                 marcador.bindPopup(contenidoPopup);
             } else {
